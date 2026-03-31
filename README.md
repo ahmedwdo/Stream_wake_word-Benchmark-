@@ -1,13 +1,4 @@
 
-*** What was added as new content ?  *** 
-
-# MLPerf Tiny Runner 
-## Overview 
-## Quick Start 
-## Runner Structure and Execution Workflow 
-## Dataset Preparation 
-
-
 # MLPerf Tiny Runner
 
  Runner Transition Notice (v1.3):The EEMBC EnergyRunner is accepted for KWS, VWW, IC, and AD. Use this MLCommons Runner for current runner-based workflows. The EEMBC runner does not support the Streaming Wake Word** benchmark. See `../MLPerfTiny_Rules.adoc`.
