@@ -1,3 +1,4 @@
+
 # MLPerf Tiny Runner
 
  Runner Transition Notice (v1.3):The EEMBC EnergyRunner is accepted for KWS, VWW, IC, and AD. Use this MLCommons Runner for current runner-based workflows. The EEMBC runner does not support the Streaming Wake Word** benchmark. See `../MLPerfTiny_Rules.adoc`.
@@ -416,4 +417,3 @@ Located in file /application/user/core/usart.c
 In some cases, multiple devices may have the same VID and PID.  For example, on an MCU development board, the VID/PID may be linked to the vendors debugger/programmer (e.g. ST-Link) rather than to the development board specifically.  To avoid 
 Workaround:  Use a USB-serial converter so that the offending device presents with a different VID:PID.
 >>>>>>> streaming_ww_dev
-
