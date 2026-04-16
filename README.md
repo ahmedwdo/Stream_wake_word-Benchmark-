@@ -482,5 +482,3 @@ Located in file `/application/user/core/usart.c`
 ### A device with vid:pid XX:YY failed to provide a serial number
 
 In some cases, multiple devices may have the same VID and PID. For example, on an MCU development board, the VID/PID may be linked to the vendor's debugger/programmer (e.g. ST-Link) rather than to the development board specifically.
-
-**Workaround:** Use a USB-serial converter so that the offending device presents with a different VID:PID.
